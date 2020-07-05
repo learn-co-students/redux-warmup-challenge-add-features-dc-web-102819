@@ -1,7 +1,8 @@
-import React, { Component } from 'react';
-import PaintingContainer from './paintings/PaintingContainer';
-import MuseumPicker from './paintings/MuseumPicker';
+import React, { Component } from "react";
+import PaintingContainer from "./paintings/PaintingContainer";
+import MuseumPicker from "./paintings/MuseumPicker";
 
+//  Implement Redux changes
 class App extends Component {
   render() {
     return (
